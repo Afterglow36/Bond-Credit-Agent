@@ -1,0 +1,4 @@
+year,total_assets,total_liabilities,current_assets,current_liabilities,cash_and_cash_equivalents,short_term_debt,long_term_debt,operating_cash_flow,ebit,interest_expense,revenue,net_profit
+2023,1000,620,360,300,95,80,420,72,115,55,880,42
+2024,1040,700,330,360,70,120,500,45,82,70,910,12
+2025,1075,830,310,390,60,180,620,35,78,75,780,-18
